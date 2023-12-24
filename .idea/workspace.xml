@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e00a4f7d-c193-4f32-aa9f-15880937e196" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BalintNorbertVizsga/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BalintNorbertVizsga/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BalintNorbertVizsga/Dog.java" afterDir="false" />
+    <list default="true" id="e00a4f7d-c193-4f32-aa9f-15880937e196" name="Changes" comment="Creating a new cat and dog class and instantiating main">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BalintNorbertVizsga/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BalintNorbertVizsga/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BalintNorbertVizsga/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BalintNorbertVizsga/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/BalintNorbertVizsga/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BalintNorbertVizsga/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature-branc" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -76,6 +79,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -88,6 +95,14 @@
       <option name="presentableId" value="Default" />
       <updated>1703421762236</updated>
     </task>
+    <task id="LOCAL-00001" summary="Creating a new cat and dog class and instantiating main">
+      <created>1703430143114</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703430143114</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,5 +127,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creating a new cat and dog class and instantiating main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating a new cat and dog class and instantiating main" />
   </component>
 </project>
